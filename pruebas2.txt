@@ -1,1 +1,1 @@
-Un nuevo archivo de pruebas para git.
+Un nuevo archivo de pruebas para git con modificaciones.
